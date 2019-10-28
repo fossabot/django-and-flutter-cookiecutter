@@ -1,5 +1,8 @@
+<div align="center">
+
 # django-and-flutter-cookiecutter
 
+</div>
 The ease of Django on the backend and a multitarget frontend of Flutter. 
 
 To create a project
