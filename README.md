@@ -1,6 +1,6 @@
 <div align="center">
 
-# django-and-flutter-cookiecutter
+# Django REST and Flutter stack Cookiecutter
 
 </div>
 The ease of Django on the backend and a multitarget frontend of Flutter. 
