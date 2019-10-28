@@ -7,6 +7,12 @@ The ease of Django on the backend and a multitarget frontend of Flutter.
 
 To create a project
 
+Create a virtualenv
+
+`virtualenv venv`
+
+`source venv/bin/activate
+
 `pip install cookiecutter`
 
 `cookiecutter https://github.com/vladdoster/django-and-flutter-cookiecutter`
@@ -21,8 +27,8 @@ To start backend
 
 To start frontend
 
-``
+`Flitter`
 
-``
+`Flapper`
 
-``
+`Flutter`
