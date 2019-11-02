@@ -17,16 +17,44 @@ Create a virtualenv
 
 `cookiecutter https://github.com/vladdoster/django-and-flutter-cookiecutter`
 
-Fill out the details
+#### Fill out the details and then `cd` into the generated project
 
-To start backend
+##### To start backend:
 
-`pip install -r requirements.txt`
+```
+cd backend
+```
 
-`python manage.py runserver`
+```
+pip install virtualenv
+```
 
-To start frontend
+```
+virtualenv venv
+```
 
+```
+source venv/bin/activate
+```
+
+```
+pip install -r requirements.txt
+```
+
+```
+python manage.py makemigratiuons
+```
+
+```
+python manage.py migrate
+```
+
+```
+python manage.py runserver
+```
+
+##### To start frontend (WIP)
+ 
 `Flitter`
 
 `Flapper`
