@@ -27,8 +27,8 @@ To start backend
 
 To start frontend
 
-`Flitter`
+The editor of choice is VSCode for its extensions.
 
-`Flapper`
-
-`Flutter`
+1. Install Flutter and Dart VSCode extenstions. 
+2. Install the [Flutter SDK](https://flutter.dev/docs/get-started/install) and make sure it is on your PATH
+3. ```ctrl+shift+p``` and open the generated as a flutter project.
