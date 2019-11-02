@@ -1,3 +1,12 @@
+{{ project_name }}: {{ project_slug }}
+==================
+
+To run:
+
+```
+pipenv install
+```
+
 Translations
 ============
 
