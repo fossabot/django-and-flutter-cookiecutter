@@ -2,6 +2,10 @@
 
 # Django REST and Flutter stack Cookiecutter
 
+<a href="https://www.python.org/downloads/">
+        <img src="https://img.shields.io/badge/python-3.7-blue"
+            alt="Python 3.7"/></a>
+
 </div>
 The ease of Django on the backend and a multitarget frontend of Flutter. 
 
