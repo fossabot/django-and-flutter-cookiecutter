@@ -1,6 +1,8 @@
 <div align="center">
 
 # Django REST and Flutter stack Cookiecutter
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvladdoster%2Fdjango-and-flutter-cookiecutter.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvladdoster%2Fdjango-and-flutter-cookiecutter?ref=badge_shield)
+
 
 </div>
 The ease of Django on the backend and a multitarget frontend of Flutter. 
@@ -32,3 +34,7 @@ To start frontend
 `Flapper`
 
 `Flutter`
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvladdoster%2Fdjango-and-flutter-cookiecutter.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvladdoster%2Fdjango-and-flutter-cookiecutter?ref=badge_large)
